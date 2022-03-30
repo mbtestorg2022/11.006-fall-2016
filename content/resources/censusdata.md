@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of the United States Census Bureau. This image is in the public
     domain.
   image-alt: A graph of household income by race from 1967 to 2015.
+parent_uid: 7bd84638-d260-ec64-f6a5-4f8712e5211d
 resourcetype: Image
 title: censusdata.JPG
 uid: 9f96be60-6662-5091-9f0b-b646cc422872
